@@ -1,0 +1,5 @@
+name: ULTRA-Agent
+version: 1.0
+status: benchmark
+goal: deterministic artifact generation
+validation: all required fields must exist and preserve their names
